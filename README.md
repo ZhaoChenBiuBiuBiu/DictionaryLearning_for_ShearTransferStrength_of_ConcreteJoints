@@ -1,3 +1,2 @@
-# DictionaryLearning_for_ShearTransferStrength_of_ConcreteJoints
+# Exploring explicit formula for shear transfer strength of concrete joints using dictionary learning
 
-This repo is a placeholder for codes and data of a submitted manuscript. Codes and data will be available upon paper acceptance.
